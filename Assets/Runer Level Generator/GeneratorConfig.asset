@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ec68d6f65799e34abb0cb079d0b248e, type: 3}
+  m_Name: GeneratorConfig
+  m_EditorClassIdentifier: 
+  _chunkSize: 1
+  _maxActiveSegments: 5
+  _sizeSegment: 10
+  _segments:
+  - index: 0
+    segmentPrefab: {fileID: 3508880556887886438, guid: 9bb142a6ad8b3a049b1502ffa0a4c92c, type: 3}
