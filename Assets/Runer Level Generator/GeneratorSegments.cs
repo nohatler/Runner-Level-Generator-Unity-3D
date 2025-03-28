@@ -45,3 +45,4 @@ public class GeneratorSegments : MonoBehaviour
         _segments.RemoveAt(0);
     }
 }
+// Autor git: nohatler

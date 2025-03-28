@@ -18,3 +18,5 @@ MonoBehaviour:
   _segments:
   - index: 0
     segmentPrefab: {fileID: 3508880556887886438, guid: 9bb142a6ad8b3a049b1502ffa0a4c92c, type: 3}
+  - index: 1
+    segmentPrefab: {fileID: 6263001768997044007, guid: e849df483ceac0f4c8862a4d6eee4312, type: 3}

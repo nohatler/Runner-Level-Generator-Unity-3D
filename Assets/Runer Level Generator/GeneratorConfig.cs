@@ -26,3 +26,4 @@ public class GeneratorConfig : ScriptableObject
 
     #endregion
 }
+// Autor git: nohatler
