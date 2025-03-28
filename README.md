@@ -21,4 +21,4 @@ If you need to change the axis at which the level will spawn, then:
 1. Change _target.position.z to your axis in line 22.
 2. Swap _spawnPositionSegment with the newSegment.transform.position you need in line 39.
 
-![Gif](https://github.com/nohatler/Runner-Level-Generator-Unity-3D/blob/main/Demo/RunnerGeneratorLevel.gif?raw=true)
+![Gif](https://github.com/nohatler/Runner-Level-Generator-Unity-3D/blob/main/Assets/Demo/RunnerGeneratorLevel.gif?raw=true)
