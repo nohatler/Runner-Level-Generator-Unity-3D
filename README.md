@@ -1,6 +1,5 @@
 ﻿## Runner Level Generator Unity 3D
 #### This simple asset will help you quickly dynamically generate your level for projects in the Runner genre.
-#### Link for install in Unity Package Manager: https://github.com/nohatler/Runner-Level-Generator-Unity-3D.git
 
 ### WARNING: It only works on the Z coordinate (or one other coordinate, detailed in the instruction) and if all segments are the SAME SIZE. I plan to fix all this in the future.
 
