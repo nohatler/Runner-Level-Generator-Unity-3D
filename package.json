@@ -1,0 +1,12 @@
+{
+  "name": "com.nohatler.runner-level-generator",
+  "version": "1.0.0",
+  "displayName": "Runner Level Generator Unity 3D",
+  "description": "This simple asset will help you quickly dynamically generate your level for projects in the Runner genre.",
+  "unity": "2022.3",
+  "author": {
+    "name": "nohatler",
+    "url": "https://github.com/nohatler/"
+  },
+  "dependencies": {}
+}
